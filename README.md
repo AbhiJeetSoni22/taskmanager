@@ -1,8 +1,36 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
 
-First, run the development server:
+
+# 📝 Task Management App
+
+This is a **Task Management Application** built with **Next.js**, **MongoDB**, and **Server Actions**. Users can **create, update, and delete tasks** efficiently.
+
+## 🚀 Features
+- ✅ **Add, Edit, and Delete** tasks.
+- 📅 **Set due dates** for tasks.
+- 🖥 **Responsive UI** built with Tailwind CSS.
+- 🌍 **Deployed on Vercel**.
+
+---
+
+## 📌 Tech Stack
+- **Frontend:** Next.js 14, Tailwind CSS
+- **Backend:** Server Actions (Next.js API)
+- **Database:** MongoDB (Mongoose ORM)
+- **Deployment:** Vercel
+
+---
+## 🛠 Getting Started
+
+First, clone the repository and install the dependencies:
+
+```bash
+git clone https://github.com/yourusername/task-manager.git
+cd task-manager
+npm install
+
+
 
 ```bash
 npm run dev
